@@ -1,0 +1,11 @@
+#project{
+    background-image:linear-gradient(rgba(103, 74, 161, 0.829), rgba(97, 74, 143, 0.84)), url(./images/sincerely-media-ylveRpZ8L1s-unsplash.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+
+.line{
+    background-color: white;
+    height: 3px;
+}
