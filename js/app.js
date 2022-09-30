@@ -17,13 +17,13 @@ function equation (i, j, k){
 // Question Two (2)
 
 let staffsData = [
-    {name: 'Ogochukwu', gender: 'Male', role: 'Web-dev. Instructor', complexion: 'Chocolate'},
-    {name: 'Joshua', gender: 'Male', role: 'Web-dev. Instructor', complexion: 'Dark'},
-    {name: 'Kingsley', gender: 'Male', role: 'Android-dev. Instructor', complexion: 'Dark'},
-    {name: 'Ihiechi', gender: 'Male', role: 'Project Manager', complexion: 'Chocolate'},
-    {name: 'Ikechukwu', gender: 'Male', role: 'Android-dev. Instructor', complexion: 'Dark'},
-    {name: 'Jacob', gender: 'Male', role: 'Data science Instructor', complexion: 'Dark'},
-    {name: 'Imaobong', gender: 'Female', role: 'H.R', complexion: 'Fair'},
+    {name: 'Name: Ogochukwu', gender: 'Gender: Male', role: 'Role: Web-dev. Instructor', complexion: 'Complexion: Chocolate'},
+    {name: 'Name: Joshua', gender: 'Gender: Male', role: 'Role: Web-dev. Instructor', complexion: 'Complexion: Dark'},
+    {name: 'Name: Kingsley', gender: 'Gender: Male', role: 'Role: Android-dev. Instructor', complexion: 'Complexion: Dark'},
+    {name: 'Name: Ihiechi', gender: 'Gender: Male', role: 'Role: Project Manager', complexion: 'Complexion: Chocolate'},
+    {name: 'Name: Ikechukwu', gender: 'Gender: Male', role: 'Role: Android-dev. Instructor', complexion: 'Complexion: Dark'},
+    {name: 'Name: Jacob', gender: 'Gender: Male', role: 'Role: Data science Instructor', complexion: 'Complexion: Dark'},
+    {name: 'Name: Imaobong', gender: 'Gender: Female', role: 'Role: H.R', complexion: 'Complexion: Fair'},
     
 ]
 console.log(staffsData)
